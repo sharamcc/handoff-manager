@@ -1,4 +1,0 @@
-interface:
-  display_name: "智能项目交接与上下文生命周期管理"
-  short_description: "精简项目交接入口，分层维护事实与历史，保护人工决策并验证可追溯性"
-  default_prompt: "使用 $handoff-manager 对当前项目执行 AUDIT，只读检查交接文档并提出整理建议。"
